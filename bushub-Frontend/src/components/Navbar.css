@@ -1,0 +1,73 @@
+
+
+
+
+.log11 {
+    padding-left: 800px;
+    font-size:medium;
+}
+
+.log11 button {
+    color: rgb(168, 205, 236);
+        background-color: rgb(195, 6, 6);
+        border-radius: 5px;
+    }
+
+.log1 {
+  
+    padding-left: 600px;
+      font-size:medium;
+  
+  }
+
+.log1 button {
+color: rgb(168, 205, 236);
+    background-color: rgb(253, 23, 7);
+    border-radius: 5px;
+   
+}
+
+
+.rock1 {
+ 
+   padding-left: 50px;
+    font-family:'Times New Roman', Times, serif;
+    /* background-image: linear-gradient(rgb(61, 45, 15),rgb(110, 100, 100),rgb(10, 46, 10)); */
+    background-color: rgb(20, 32, 45);
+   color: rgb(202, 235, 245);
+  font-weight:bolder;
+    /* color: aliceblue;
+    background:  rgb(169, 169, 247);
+    transition: 0.2s; */
+}
+
+.rock1:hover {
+
+    animation: change-color 0.2s forwards;
+    background: rgb(22, 10, 70);
+    color: rgb(240, 247, 247);
+
+
+}
+
+
+ ul li h6:hover {
+    color: rgb(56, 37, 37);
+    font-size:large;
+   background: rgba(244, 238, 117, 0.7);
+        border-radius: 6px;
+    
+}
+
+h6 {
+    color: rgb(192, 205, 208);
+}
+
+
+button:hover {
+
+    background-color: antiquewhite;
+    color: black;
+  
+
+}

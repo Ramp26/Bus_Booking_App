@@ -1,0 +1,46 @@
+.back {
+
+   background-image: linear-gradient(rgb(111, 111, 240),white,orange);
+height: 550px;
+
+}
+
+.header {
+
+    font-family:sans-serif ;
+    color: aqua;
+  
+}
+
+
+.log {
+    font-family: sans-serif;
+}
+
+.container {
+  padding-top: 20px;
+    width: 380px;
+    height:500px;
+    margin: auto;
+    border-radius: 25px;
+    background-color: rgba(0,0,0,0.1);
+  
+
+}
+
+.containers {
+    padding-top: 20px;
+      width: 300px;
+      height:fit-content;
+      margin: auto;
+      border-radius: 25px;
+      background-color: rgba(160, 110, 110, 0.1);
+      border-right: 10px;
+  
+  }
+  
+
+.container:hover {
+
+    box-shadow: 10px 10px rgb(167, 206, 245);
+}
